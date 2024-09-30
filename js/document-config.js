@@ -1,6 +1,6 @@
 var documentConfig =
 {
-  title: "Handreiking Visualisatie (PMKL) - versie 3.0",
+  title: "Handreiking Visualisatie (PMKL)",
   subtitle: "(release candidate)",
   shortName: "PMKL30rc",
   pubDomain: "kl",
@@ -10,7 +10,7 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/kl/PMKL30rc/"
   ],
-  publishDate: "2024-09-18",
+  publishDate: "2024-09-30",
   publishVersion: "3.0.0",
   thisVersion: [
     "https://geonovum.github.io/kl-PMKL30rc/"
